@@ -1,4 +1,4 @@
-# Glish in the system
+# Glitch in the system
 
 # 👋 Hi, I'm a Curious Computer Science Explorer
 
